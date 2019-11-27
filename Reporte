@@ -1,0 +1,21 @@
+	# Cálculo del Índice de Vegetación NVDI de imágenes satelitales.
+  
+  #Resúmen:
+En este proyecto se pretende elaborar un programa capaz de indicar el ìndice de vegetaciones por me-dio de imágenes satelitales
+obtenidas de la plata-forma glovis de la cual sacaremos las imágenes necesarias para llevar acabo nuestro proyecto.
+
+Realizaremos este programa con la finalidad de analizar datos ecológicos y así poder detectar la vegetación que se encuentra en
+cierta región. Para realizar este programa utilizaremos Python en el cual realizaremos nuestro código fuente y haremos utilización 
+de algunas de sus librerías como lo son gdal y prossesing incluidos módulos de osgeos y os entre algunas otras.  
+
+
+Palabras clave: Vegetación, Python, glovis, gdal, osgeo.
+
+  #Abstract:
+This project aims to develop a program capable of indicating the index of vegetations by means of sat-ellite images obtained from
+the glovis platform from which we will obtain the necessary images to carry out our project. We will carry out this program in order
+to analyse ecological data and thus be able to detect the vegetation found in a certain region.
+
+To make this program we will use python in which we
+will make our source code and we will use some of its
+libraries such as os, osgeo, gdal among some oth-ers..
